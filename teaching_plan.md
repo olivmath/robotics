@@ -31,6 +31,7 @@ Criar um ambiente que potencialize o processo de ensino/aprendizado dos conteúd
 
 - Introduzir os alunos a novas tecnologias.
 - Preparar os alunos para Olimpiada Brasileira de Robótica.
+- Conscientizar sobre o descarte tecnológico e reciclagem.
 - Aplicar os conhecimentos de matemática, ciências e tecnologia em projetos práticos.
 - Desenvolver a lógica de programação.
 - Cultivar uma mentalidade de resolução de problemas.
@@ -63,7 +64,7 @@ Para um bom aproveitamento das tecnologias e recursos disponiveis é nescessári
 
 ## RECURSOS DIDÁTICOS
 
-Kits de Robótica e Computadores.
+Kits de Robótica, Materiais Reciclaveis (Sucata) e Computadores.
 
 ## INSTRUMENTOS DE AVALIAÇÃO
 
