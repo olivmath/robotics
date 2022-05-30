@@ -6,8 +6,6 @@
 
 ## EMENTA
 
-Principios básicos de Computadores e Internet.
-
 Tópicos de Eletrônica:
 
 - Componentes Eletrônicos
@@ -17,8 +15,10 @@ Tópicos de Eletrônica:
   - Sensores
 - Circuitos e Lógica
 
+
 Tópicos de Computação:
 
+- Principios básicos de Computadores e Internet.
 - Lógica de Programação
 - Algoritmos
 - Estruturas de Dados
